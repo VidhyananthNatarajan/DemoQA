@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-02-23T15:43:00Z" name="Default suite" finished-at="2024-02-23T15:43:09Z" duration-ms="9458">
+    <groups>
+    </groups>
+    <test started-at="2024-02-23T15:43:00Z" name="Default test" finished-at="2024-02-23T15:43:09Z" duration-ms="9458">
+      <class name="com.demoqa.testcases.Demoqa_flow">
+        <test-method is-config="true" signature="startReport()[pri:0, instance:com.demoqa.testcases.Demoqa_flow@757acd7b]" started-at="2024-02-23T15:43:00Z" name="startReport" finished-at="2024-02-23T15:43:00Z" duration-ms="163" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startReport -->
+        <test-method is-config="true" signature="testinputs()[pri:0, instance:com.demoqa.testcases.Demoqa_flow@757acd7b]" started-at="2024-02-23T15:43:00Z" name="testinputs" finished-at="2024-02-23T15:43:00Z" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testinputs -->
+        <test-method is-config="true" signature="report()[pri:0, instance:com.demoqa.testcases.Demoqa_flow@757acd7b]" started-at="2024-02-23T15:43:00Z" name="report" finished-at="2024-02-23T15:43:00Z" duration-ms="6" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- report -->
+        <test-method is-config="true" signature="LaunchApp()[pri:0, instance:com.demoqa.testcases.Demoqa_flow@757acd7b]" started-at="2024-02-23T15:43:00Z" name="LaunchApp" finished-at="2024-02-23T15:43:06Z" duration-ms="6402" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LaunchApp -->
+        <test-method signature="loginHRM()[pri:0, instance:com.demoqa.testcases.Demoqa_flow@757acd7b]" started-at="2024-02-23T15:43:06Z" name="loginHRM" finished-at="2024-02-23T15:43:09Z" duration-ms="2814" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginHRM -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.demoqa.testcases.Demoqa_flow@757acd7b]" started-at="2024-02-23T15:43:09Z" name="teardown" finished-at="2024-02-23T15:43:09Z" duration-ms="214" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="stopReport()[pri:0, instance:com.demoqa.testcases.Demoqa_flow@757acd7b]" started-at="2024-02-23T15:43:09Z" name="stopReport" finished-at="2024-02-23T15:43:10Z" duration-ms="329" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- stopReport -->
+      </class> <!-- com.demoqa.testcases.Demoqa_flow -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
